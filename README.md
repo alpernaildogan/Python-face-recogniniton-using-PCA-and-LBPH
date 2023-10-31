@@ -13,3 +13,7 @@
  The program currently supports up to 5 users. One can increase the number of users in the `detector.py` script.
 
  Note: Run wipe_out.py to delete the entire dataset and recognizer data.
+
+ ![example0](https://github.com/alpernaildogan/Python-face-recogniniton-using-PCA-and-LBPH/blob/main/main/dataset/example0.png))
+
+ ![example1](https://github.com/alpernaildogan/Python-face-recogniniton-using-PCA-and-LBPH/blob/main/main/dataset/example1.png))
